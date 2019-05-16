@@ -98,27 +98,31 @@ class Home extends Component {
             <FormContainer>
               
               <LocationSearchInput
-                <PlacesAutocomplete inputProps={inputProps} onChange={(address) => {this.handleAddressChange(address, 'address1')}} />
-              // placeholder={"First Location"}
+               name={"locationA"}
+                value={this.state.address1}
+                name={"locationB"}
+                value={this.state.address2}
+              //   <PlacesAutocomplete inputProps={inputProps} onChange={(address) => {this.handleAddressChange(address, 'address1')}} />
+              // // placeholder={"First Location"}
               // name={"locationA"}
               // value={locationA}
               // handleChange={this.handleChange}
               // error={this.state.error.locationA}
               />
-              <FormInput
+              {/* <FormInput
                 placeholder={"First Location"}
                 name={"locationA"}
-                value={locationA}
+                value={this.state.address1}
                 handleChange={this.handleChange}
                 error={this.state.error.locationA}
               />
               <FormInput
                 placeholder={"Second Location"}
                 name={"locationB"}
-                value={locationB}
+                value={this.state.address2}
                 handleChange={this.handleChange}
                 error={this.state.error.locationB}
-              />
+              /> */}
               <FormInput
                 placeholder={"Point of Interest"}
                 name={"pointOfInterest"}
