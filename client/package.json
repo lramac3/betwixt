@@ -22,13 +22,16 @@
     "react-scripts": "^3.0.0",
     "stringquery": "^1.0.8",
     "styled-components": "^4.2.0",
-    "weathericons": "^2.1.0"
+    "weathericons": "^2.1.0",
+    "snyk": "^1.169.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "proxy": "https://betwixt-gt.herokuapp.com/",
   "eslintConfig": {
@@ -39,5 +42,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "snyk": true
 }
