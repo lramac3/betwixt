@@ -1,12 +1,12 @@
 # Betwixt
 
-[View Betwixt Live][live]
-
-[live]: https://betwixt-gt.herokuapp.com/
-
 Betwixt is a map tool for calculating convenient meeting locations between friends. It is written in React and implements Google Maps API.
 
 Finding a place to hang out can be difficult. Meeting up with friends who are all an hour car ride away from each other is almost impossible. Midpoint makes it easy to decide where to gather by using location methods, transit preferences, and simple math to determine which location makes the most sense for a group of spread out friends.
+
+[View Betwixt Live][live]
+
+[live]: https://betwixt-gt.herokuapp.com/
 
 ## Features
 
