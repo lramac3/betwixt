@@ -16,14 +16,23 @@ All features in Betwixt are centered around the main map. Users can add several 
 
 The first feature of Betwixt is finding the exact geographical midpoint between several locations. By calculating the latitude and longitude of all entered locations, Midpoint calculates the mathematical average of both and reveals the exact center.
 
-### Most Convenient
+### Location Based Search
 
-"Most Convenient" is for groups of friends looking to congregate at one of the friend's current location. This feature calculates the travel time for every possible trip (where origin and destination are two of the user added locations) and determines which of the locations should be the meeting place based on least total travel time. Total travel time for all the locations is represented by a percentage bar representing relative amount of time among the options. Through each of the options, users can select specific trips via origin and destination and view specific instructions below.
+Once the user has a central location established by one of the other features, this feature will reveal all nearby establishments (bar, restaurant, etc) that fit the users criteria. Location based search will either be done with Google Maps API.
+
+### Chat
+Users can interact with each other by signing in using their google or facebook account to decide on the place and day to meet
+
+### Weather
+
+If groups of friends are looking to congregate at one of the friend's current location, they can check the current weather 
 
 ## Upcoming Features
 
 The following is a collection of features that are yet to be implemented, but will be soon.
 
-### Location Based Search
+## Autocomplete location
+Users will be able to autocomplete the location as they start typing the address using Google Maps API.
 
-Once the user has a central location established by one of the other features, this feature will reveal all nearby establishments (bar, restaurant, etc) that fit the users criteria. Location based search will either be done with Google Maps API or I may decide to implement Yelp's.
+
+
