@@ -8,6 +8,10 @@ Finding a place to hang out can be difficult. Meeting up with friends who are al
 
 [live]: https://betwixt-gt.herokuapp.com/
 
+![Screen Shot 2019-10-07 at 5 56 58 PM](https://user-images.githubusercontent.com/28829258/66351867-6b53d600-e92c-11e9-8198-2182d8bac3a5.png)
+![Screen Shot 2019-10-07 at 5 57 34 PM](https://user-images.githubusercontent.com/28829258/66351873-6ee75d00-e92c-11e9-9dc0-519c1dc0f5ea.png)
+
+
 ## Features
 
 All features in Betwixt are centered around the main map. Users can add several locations with tag names in the upper left hand corner and use the other features for calculating a number of interesting points of interest.
