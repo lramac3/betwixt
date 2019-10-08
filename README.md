@@ -12,7 +12,7 @@ Finding a place to hang out can be difficult. Meeting up with friends who are al
 
 ## Features
 
-All features in Betwixt are centered around the main map. Users can add several locations with tag names in the upper left hand corner and use the other features for calculating a number of interesting points of interest.
+All features in Betwixt are centered around the main map. 
 
 ### Midpoint
 
