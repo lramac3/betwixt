@@ -1,6 +1,6 @@
+# Betwixt
 ![build](https://img.shields.io/badge/build-passing-brightgreen.svg) ![npm](https://img.shields.io/badge/npm-v6.4.1-blue.svg)
 
-# Betwixt
 
 Betwixt is a map tool for calculating convenient meeting locations between friends. It is written in React and implements Google Maps API.
 
