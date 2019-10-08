@@ -26,10 +26,12 @@ Once the user has a central location established by one of the other features, t
 
 ### Chat
 Users can interact with each other by signing in using their google or facebook account to decide on the place and day to meet
+![Screen Shot 2019-10-08 at 1 18 33 PM](https://user-images.githubusercontent.com/28829258/66417735-a3abf080-e9ce-11e9-988d-ad64e4357c34.png)
 
 ### Weather
 
 If groups of friends are looking to congregate at one of the friend's current location, they can check the current weather 
+![Screen Shot 2019-10-08 at 1 20 45 PM](https://user-images.githubusercontent.com/28829258/66417736-a3abf080-e9ce-11e9-8b55-7c2848b3e0b8.png)
 
 ## Upcoming Features
 
